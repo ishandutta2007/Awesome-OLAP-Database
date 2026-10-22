@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-OLAP-Database/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-OLAP-Database?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-OLAP-Database/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-OLAP-Database?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-OLAP-Database/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-OLAP-Database?style=flat-square&logo=github&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-OLAP-Database/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-OLAP-Database/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License"/></a>
@@ -82,7 +82,7 @@ The open-source analytical ecosystem powers modern data platforms. The projects 
 ---
 
 ### 1. ClickHouse
-[![GitHub stars](https://img.shields.io/github/stars/ClickHouse/ClickHouse?style=social&color=white)](https://github.com/ClickHouse/ClickHouse/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ClickHouse/ClickHouse?style=social&color=white)](https://github.com/ClickHouse/ClickHouse/stargazers)
 
 - **Repository**: [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) 
 - **License**: Apache 2.0  
@@ -94,7 +94,7 @@ The open-source analytical ecosystem powers modern data platforms. The projects 
 ---
 
 ### 2. DuckDB
-[![GitHub stars](https://img.shields.io/github/stars/duckdb/duckdb?style=social&color=white)](https://github.com/duckdb/duckdb/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/duckdb/duckdb?style=social&color=white)](https://github.com/duckdb/duckdb/stargazers)
 
 - **Repository**: [duckdb/duckdb](https://github.com/duckdb/duckdb)  
 - **License**: MIT  
@@ -106,7 +106,7 @@ The open-source analytical ecosystem powers modern data platforms. The projects 
 ---
 
 ### 3. Polars
-[![GitHub stars](https://img.shields.io/github/stars/pola-rs/polars?style=social&color=white)](https://github.com/pola-rs/polars/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/pola-rs/polars?style=social&color=white)](https://github.com/pola-rs/polars/stargazers)
 
 - **Repository**: [pola-rs/polars](https://github.com/pola-rs/polars)  
 - **License**: MIT  
@@ -118,7 +118,7 @@ The open-source analytical ecosystem powers modern data platforms. The projects 
 ---
 
 ### 4. Cube
-[![GitHub stars](https://img.shields.io/github/stars/cube-js/cube?style=social&color=white)](https://github.com/cube-js/cube/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/cube-js/cube?style=social&color=white)](https://github.com/cube-js/cube/stargazers)
 
 - **Repository**: [cube-js/cube](https://github.com/cube-js/cube)  
 - **License**: Apache 2.0  
@@ -130,7 +130,7 @@ The open-source analytical ecosystem powers modern data platforms. The projects 
 ---
 
 ### 5. QuestDB
-[![GitHub stars](https://img.shields.io/github/stars/questdb/questdb?style=social&color=white)](https://github.com/questdb/questdb/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/questdb/questdb?style=social&color=white)](https://github.com/questdb/questdb/stargazers)
 
 - **Repository**: [questdb/questdb](https://github.com/questdb/questdb)  
 - **License**: Apache 2.0  
@@ -142,7 +142,7 @@ The open-source analytical ecosystem powers modern data platforms. The projects 
 ---
 
 ### 6. Presto
-[![GitHub stars](https://img.shields.io/github/stars/prestodb/presto?style=social&color=white)](https://github.com/prestodb/presto/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/prestodb/presto?style=social&color=white)](https://github.com/prestodb/presto/stargazers)
 
 - **Repository**: [prestodb/presto](https://github.com/prestodb/presto)  
 - **License**: Apache 2.0  
@@ -154,7 +154,7 @@ The open-source analytical ecosystem powers modern data platforms. The projects 
 ---
 
 ### 7. Apache Doris
-[![GitHub stars](https://img.shields.io/github/stars/apache/doris?style=social&color=white)](https://github.com/apache/doris/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/apache/doris?style=social&color=white)](https://github.com/apache/doris/stargazers)
 
 - **Repository**: [apache/doris](https://github.com/apache/doris)  
 - **License**: Apache 2.0  
@@ -166,7 +166,7 @@ The open-source analytical ecosystem powers modern data platforms. The projects 
 ---
 
 ### 8. Apache Druid
-[![GitHub stars](https://img.shields.io/github/stars/apache/druid?style=social&color=white)](https://github.com/apache/druid/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/apache/druid?style=social&color=white)](https://github.com/apache/druid/stargazers)
 
 - **Repository**: [apache/druid](https://github.com/apache/druid)  
 - **License**: Apache 2.0  
@@ -178,7 +178,7 @@ The open-source analytical ecosystem powers modern data platforms. The projects 
 ---
 
 ### 9. Trino
-[![GitHub stars](https://img.shields.io/github/stars/trinodb/trino?style=social&color=white)](https://github.com/trinodb/trino/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/trinodb/trino?style=social&color=white)](https://github.com/trinodb/trino/stargazers)
 
 - **Repository**: [trinodb/trino](https://github.com/trinodb/trino)  
 - **License**: Apache 2.0  
@@ -190,7 +190,7 @@ The open-source analytical ecosystem powers modern data platforms. The projects 
 ---
 
 ### 10. StarRocks
-[![GitHub stars](https://img.shields.io/github/stars/StarRocks/starrocks?style=social&color=white)](https://github.com/StarRocks/starrocks/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/StarRocks/starrocks?style=social&color=white)](https://github.com/StarRocks/starrocks/stargazers)
 
 - **Repository**: [StarRocks/starrocks](https://github.com/StarRocks/starrocks)  
 - **License**: Apache 2.0  
@@ -202,7 +202,7 @@ The open-source analytical ecosystem powers modern data platforms. The projects 
 ---
 
 ### 11. Apache DataFusion
-[![GitHub stars](https://img.shields.io/github/stars/apache/datafusion?style=social&color=white)](https://github.com/apache/datafusion/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/apache/datafusion?style=social&color=white)](https://github.com/apache/datafusion/stargazers)
 
 - **Repository**: [apache/datafusion](https://github.com/apache/datafusion)  
 - **License**: Apache 2.0  
@@ -214,7 +214,7 @@ The open-source analytical ecosystem powers modern data platforms. The projects 
 ---
 
 ### 12. Databend
-[![GitHub stars](https://img.shields.io/github/stars/databendlabs/databend?style=social&color=white)](https://github.com/databendlabs/databend/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/databendlabs/databend?style=social&color=white)](https://github.com/databendlabs/databend/stargazers)
 
 - **Repository**: [databendlabs/databend](https://github.com/databendlabs/databend)  
 - **License**: Apache 2.0  
@@ -226,7 +226,7 @@ The open-source analytical ecosystem powers modern data platforms. The projects 
 ---
 
 ### 13. Apache Pinot
-[![GitHub stars](https://img.shields.io/github/stars/apache/pinot?style=social&color=white)](https://github.com/apache/pinot/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/apache/pinot?style=social&color=white)](https://github.com/apache/pinot/stargazers)
 
 - **Repository**: [apache/pinot](https://github.com/apache/pinot)  
 - **License**: Apache 2.0  
@@ -238,7 +238,7 @@ The open-source analytical ecosystem powers modern data platforms. The projects 
 ---
 
 ### 14. Apache Kylin
-[![GitHub stars](https://img.shields.io/github/stars/apache/kylin?style=social&color=white)](https://github.com/apache/kylin/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/apache/kylin?style=social&color=white)](https://github.com/apache/kylin/stargazers)
 
 - **Repository**: [apache/kylin](https://github.com/apache/kylin)  
 - **License**: Apache 2.0  
@@ -250,7 +250,7 @@ The open-source analytical ecosystem powers modern data platforms. The projects 
 ---
 
 ### 15. Hydra
-[![GitHub stars](https://img.shields.io/github/stars/hydradatabase/hydra?style=social&color=white)](https://github.com/hydradatabase/hydra/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/hydradatabase/hydra?style=social&color=white)](https://github.com/hydradatabase/hydra/stargazers)
 
 - **Repository**: [hydradatabase/hydra](https://github.com/hydradatabase/hydra)  
 - **License**: Apache 2.0 / PolyForm  
@@ -262,7 +262,7 @@ The open-source analytical ecosystem powers modern data platforms. The projects 
 ---
 
 ### 16. chDB
-[![GitHub stars](https://img.shields.io/github/stars/chdb-io/chdb?style=social&color=white)](https://github.com/chdb-io/chdb/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/chdb-io/chdb?style=social&color=white)](https://github.com/chdb-io/chdb/stargazers)
 
 - **Repository**: [chdb-io/chdb](https://github.com/chdb-io/chdb)  
 - **License**: Apache 2.0  
@@ -274,7 +274,7 @@ The open-source analytical ecosystem powers modern data platforms. The projects 
 ---
 
 ### 17. ByConity
-[![GitHub stars](https://img.shields.io/github/stars/ByConity/ByConity?style=social&color=white)](https://github.com/ByConity/ByConity/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ByConity/ByConity?style=social&color=white)](https://github.com/ByConity/ByConity/stargazers)
 
 - **Repository**: [ByConity/ByConity](https://github.com/ByConity/ByConity)  
 - **License**: Apache 2.0  
@@ -322,7 +322,7 @@ We welcome contributions from the data engineering community! To add or update a
 1. **Fork the Repository**: Click the `Fork` button on the top right.
 2. **Create a Feature Branch**: `git checkout -b feat/add-new-olap-engine`
 3. **Follow the Standard Structure**:
-   - Project Name, official GitHub link, and social star badge.
+   - Project Name, official GitHub link, and social Stars_Badge.
    - License, Core Architecture, Standout Capabilities, Trade-offs, and Best Use-Cases.
    - For SaaS products, include verifiable starting price tiers and specific free-tier terms.
 4. **Submit a Pull Request**: Provide a concise explanation and citations to official documentation or release notes.
