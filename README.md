@@ -1,6 +1,6 @@
 # Awesome-OLAP-Database
 
-# Top OLAP Database Ecosystem
+## Top OLAP Database Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Columnar Storage, Vectorized Execution & Real-Time Analytical Throughput*  
